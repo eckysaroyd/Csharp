@@ -1,0 +1,15 @@
+using System;
+//system is the contaiiner
+//public class program its means a class name
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Enter your name");
+		String name= Console.ReadLine();
+		Console.WriteLine("Enter your no");
+		String regno= Console.ReadLine();
+		Console.WriteLine("my name is "+ name+ "and my regno is"+regno);
+	}
+}
