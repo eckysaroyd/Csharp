@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.exe
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.deps.json
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.runtimeconfig.json
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.runtimeconfig.dev.json
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.dll
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\bin\Debug\netcoreapp3.1\employsalaryCalculationAPP.pdb
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\obj\Debug\netcoreapp3.1\employsalaryCalculationAPP.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\obj\Debug\netcoreapp3.1\employsalaryCalculationAPP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\obj\Debug\netcoreapp3.1\employsalaryCalculationAPP.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\obj\Debug\netcoreapp3.1\employsalaryCalculationAPP.dll
+C:\Users\HP\Desktop\csharp\employsalaryCalculationAPP\employsalaryCalculationAPP\obj\Debug\netcoreapp3.1\employsalaryCalculationAPP.pdb
